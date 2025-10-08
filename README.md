@@ -1,5 +1,6 @@
 unity版本：2021.3.34f1
 目前做了一个demo版本作为演示。预期打造成一个：有惊喜和意外的，可长期持续的陪伴形ml游戏。
+简单的讲解视频：https://studio.youtube.com/channel/UC6Cie_cKBSq55CZ199D8D7g
 最简单的脑洞类似下图：
 
 <img width="622" height="562" alt="image" src="https://github.com/user-attachments/assets/7f4e6e93-1c0c-44ff-9e24-5a5a0d10595e" />
